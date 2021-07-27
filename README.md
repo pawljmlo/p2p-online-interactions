@@ -1,2 +1,1 @@
-# dawid-phd
-Dawid Storman
+# p2p online interactions
